@@ -1,0 +1,8 @@
+venv/
+.venv/
+__pycache__/
+*.pyc
+.env
+.gradio/
+engineering_db/
+troubleshooting_db/
